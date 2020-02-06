@@ -1,0 +1,2 @@
+# thrusday
+day name
