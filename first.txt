@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is line 1 for file 21
+=======
+this is line 1 for file 21
+
+shivraj deopa
+>>>>>>> master
